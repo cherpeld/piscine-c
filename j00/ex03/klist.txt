@@ -1,0 +1,5 @@
+Credentials cache: API:3F76AB61-20C1-44B8-9FE8-6E235D2E2B79
+        Principal: cherpeld@42.FR
+
+  Issued                Expires               Principal
+Aug 29 16:49:37 2016  Sep  5 16:49:37 2016  krbtgt/42.FR@42.FR
